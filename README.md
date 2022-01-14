@@ -1,2 +1,2 @@
 # repo02
-NOVI REPO NOVI
+Ovo je moj prvi direktor.
